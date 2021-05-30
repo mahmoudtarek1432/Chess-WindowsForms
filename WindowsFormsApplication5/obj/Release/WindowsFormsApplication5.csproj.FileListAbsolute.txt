@@ -1,0 +1,10 @@
+C:\Users\wed\Documents\Visual Studio 2012\Projects\CHESS\WindowsFormsApplication5\bin\Release\WindowsFormsApplication5.exe.config
+C:\Users\wed\Documents\Visual Studio 2012\Projects\CHESS\WindowsFormsApplication5\bin\Release\WindowsFormsApplication5.exe
+C:\Users\wed\Documents\Visual Studio 2012\Projects\CHESS\WindowsFormsApplication5\bin\Release\WindowsFormsApplication5.pdb
+C:\Users\wed\Documents\Visual Studio 2012\Projects\CHESS\WindowsFormsApplication5\obj\Release\WindowsFormsApplication5.Form1.resources
+C:\Users\wed\Documents\Visual Studio 2012\Projects\CHESS\WindowsFormsApplication5\obj\Release\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\wed\Documents\Visual Studio 2012\Projects\CHESS\WindowsFormsApplication5\obj\Release\WindowsFormsApplication5.csproj.GenerateResource.Cache
+C:\Users\wed\Documents\Visual Studio 2012\Projects\CHESS\WindowsFormsApplication5\obj\Release\WindowsFormsApplication5.exe
+C:\Users\wed\Documents\Visual Studio 2012\Projects\CHESS\WindowsFormsApplication5\obj\Release\WindowsFormsApplication5.pdb
+C:\Users\wed\Documents\Visual Studio 2012\Projects\CHESS\WindowsFormsApplication5\obj\Release\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+C:\Users\wed\Documents\Visual Studio 2012\Projects\CHESS\WindowsFormsApplication5\obj\Release\WindowsFormsApplication5.Form2.resources
